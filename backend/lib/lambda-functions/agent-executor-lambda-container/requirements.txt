@@ -5,3 +5,5 @@ langchain
 duckduckgo-search
 psycopg2-binary
 pgvector
+# Add the following dependencies
+langchain-community
